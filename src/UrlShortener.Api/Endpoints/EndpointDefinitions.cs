@@ -3,7 +3,7 @@ using UrlShortener.Api.Entities;
 using UrlShortener.Api.Models;
 using UrlShortener.Api.Services;
 
-namespace UrlShortener.Api.Extensions;
+namespace UrlShortener.Api.Endpoints;
 
 public static class EndpointDefinitions
 {

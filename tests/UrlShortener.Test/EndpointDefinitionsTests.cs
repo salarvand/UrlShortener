@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
 using UrlShortener.Api;
+using UrlShortener.Api.Endpoints;
 using UrlShortener.Api.Entities;
-using UrlShortener.Api.Extensions;
 using UrlShortener.Api.Models;
 using UrlShortener.Api.Services;
 
